@@ -1,0 +1,20 @@
+C:\Users\PC\AppData\Local\Temporary Projects\sms\bin\Debug\sms.exe
+C:\Users\PC\AppData\Local\Temporary Projects\sms\bin\Debug\sms.pdb
+C:\Users\PC\AppData\Local\Temporary Projects\sms\bin\Debug\sms.xml
+C:\Users\PC\AppData\Local\Temporary Projects\sms\obj\x86\Debug\sms.registrationfrm.resources
+C:\Users\PC\AppData\Local\Temporary Projects\sms\obj\x86\Debug\sms.Resources.resources
+C:\Users\PC\AppData\Local\Temporary Projects\sms\obj\x86\Debug\sms.vbproj.GenerateResource.Cache
+C:\Users\PC\AppData\Local\Temporary Projects\sms\obj\x86\Debug\sms.exe
+C:\Users\PC\AppData\Local\Temporary Projects\sms\obj\x86\Debug\sms.xml
+C:\Users\PC\AppData\Local\Temporary Projects\sms\obj\x86\Debug\sms.pdb
+C:\Users\PC\documents\visual studio 2010\Projects\sms\sms\obj\x86\Debug\sms.exe
+C:\Users\PC\documents\visual studio 2010\Projects\sms\sms\obj\x86\Debug\sms.xml
+C:\Users\PC\documents\visual studio 2010\Projects\sms\sms\obj\x86\Debug\sms.pdb
+C:\Users\PC\documents\visual studio 2010\Projects\sms\sms\bin\Debug\sms.exe
+C:\Users\PC\documents\visual studio 2010\Projects\sms\sms\bin\Debug\sms.pdb
+C:\Users\PC\documents\visual studio 2010\Projects\sms\sms\bin\Debug\sms.xml
+C:\Users\PC\documents\visual studio 2010\Projects\sms\sms\obj\x86\Debug\sms.registrationfrm.resources
+C:\Users\PC\documents\visual studio 2010\Projects\sms\sms\obj\x86\Debug\sms.Resources.resources
+C:\Users\PC\documents\visual studio 2010\Projects\sms\sms\obj\x86\Debug\sms.vbproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2010\Projects\sms\sms\obj\x86\Debug\sms.loginform.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\sms\sms\obj\x86\Debug\sms.teacher_dashboard.resources
